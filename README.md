@@ -12,5 +12,6 @@ This notebook uses a dataset with four classes, glioma_tumor, no_tumor, meningio
 ### Conclusion: 
 Experiments with both augmented and unaugmented models showed competitive results, demonstrating a tradeoff between accuracy and computational complexity. More data collection, transfer learning, and exploring synthetic data generation methods can lead to further advances.
 
+You can find the link to this notebook here: [Brain Tumor Detection using Tensorflow CNN](https://www.kaggle.com/code/anitarostami/brain-tumor-detection-using-tensorflow-cnn#notebook-container)
 
-For a deeper exploration into transfer learning techniques, refer to my notebooks: [Brain Tumor Detection using Tensorflow CNN](https://www.kaggle.com/code/anitarostami/brain-tumor-detection-using-tensorflow-cnn#notebook-container) and [Brain Tumor Detection EfficientNet | ResNet | Xception](https://www.kaggle.com/code/anitarostami/brain-tumor-detection-efficientnet-resnet-xception).
+For a deeper exploration into transfer learning techniques, refer to my notebooks: [Brain Tumor Detection EfficientNet | ResNet | Xception](https://www.kaggle.com/code/anitarostami/brain-tumor-detection-efficientnet-resnet-xception).
